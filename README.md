@@ -1,0 +1,4 @@
+- 👋 Hi, I’m GFREEM
+- 👀 I’m interested in not using lua ever again
+- 🌱 I’m currently learning C# and lua
+- 📫 How to reach me you can reach me at gurniv@gmail.com, or on discord at GFreem#8373
